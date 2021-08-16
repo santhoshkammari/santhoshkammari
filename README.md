@@ -1,4 +1,4 @@
-# Hi,I am Santhosh 👋![images](https://user-images.githubusercontent.com/56174010/129606132-a8a8dc80-78fa-4a80-8db3-07a4bf6ded0b.png)
+# Hi,I am Santhosh 👋<img src='https://user-images.githubusercontent.com/56174010/129606527-b7e56d90-9ebf-4f41-96c7-ef00abc45450.gif'width="30px">
 
 https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fmohitjaisal%2FImageStore%2Fmaster%2FReadme-MohitJaisal%2FGIFs%2F1-Developer.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Fmohitjaisal&tbnid=47chckvIQOvI5M&vet=12ahUKEwiI_ofSibbyAhUihUsFHbw-C4wQMygWegUIARC6Ag..i&docid=fksfMihRGdhR8M&w=243&h=177&q=developer%20gif&hl=en&ved=2ahUKEwiI_ofSibbyAhUihUsFHbw-C4wQMygWegUIARC6Ag
 

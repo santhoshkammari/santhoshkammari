@@ -1,8 +1,5 @@
-# Hi,I am Santhosh 👋<img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/m
+# Hi,I am Santhosh :smiley:
 
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fmohitjaisal%2FImageStore%2Fmaster%2FReadme-MohitJaisal%2FGIFs%2F1-Developer.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Fmohitjaisal&tbnid=47chckvIQOvI5M&vet=12ahUKEwiI_ofSibbyAhUihUsFHbw-C4wQMygWegUIARC6Ag..i&docid=fksfMihRGdhR8M&w=243&h=177&q=developer%20gif&hl=en&ved=2ahUKEwiI_ofSibbyAhUihUsFHbw-C4wQMygWegUIARC6Ag
-
-<!--
 **santhoshkammari/santhoshkammari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

@@ -1,2 +1,3 @@
-# Hi,I am Santhosh :smiley:
+# Hi,I am Santhosh
+
 

@@ -13,7 +13,7 @@
 
 ## Current Projects
 
-- ☑️ **[checkboxer](https://github.com/santhoshkammari/checkboxer)** - Pure NumPy checkbox detection — no OpenCV, no PyTorch, just fast. Benchmarked against YOLO/OpenCV alternatives.
+- ☑️ **[npboxdetect](https://github.com/santhoshkammari/checkboxer)** - Fastest checkbox detector: NumPy + Numba, 3.9x faster than boxdetect. [`pip install npboxdetect`](https://pypi.org/project/npboxdetect/)
 - 🧠 **[agilab](https://github.com/santhoshkammari/agilab)** - Personal AI lab: agents, tools, pipelines, and experiments
 - 🛠️ **MCP Tools** - Custom MCP servers: web fetch, markdown, github explorer, gmail, YouTube, grep/read utilities
 - 🔍 **Agent Scout** - Research agent that searches, scrapes, and synthesizes answers autonomously

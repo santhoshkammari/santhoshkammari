@@ -19,7 +19,6 @@
 - 🔍 **Agent Scout** - Research agent that searches, scrapes, and synthesizes answers autonomously
 - 🐼 **Panda Agent** - Scratchpad-driven stateless agent with ChromaDB memory brain
 - 📡 **AI.py** - Lightweight DSPy-style LLM interface: signatures, history injection, streaming, postprocessing
-- 🎓 **[claude_code_gradio_ui](https://github.com/santhoshkammari/claude_code_gradio_ui)** - Pure Python/Gradio UI wrapper for Claude Code CLI
 - 💳 **[FRAUD-DETECTION-ON-BANK-PAYMENTS](https://github.com/santhoshkammari/FRAUD-DETECTION-ON-BANK-PAYMENTS)** - ML model for fraud detection in bank payments
 
 ## What I'm Building With

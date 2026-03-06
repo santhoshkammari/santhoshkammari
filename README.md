@@ -1,4 +1,4 @@
-# Hi, I'm Santhosh 👋
+# Hi, I'm Santhosh 👋 [![Gmail](https://img.shields.io/badge/-santhoshkammari1999@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:santhoshkammari1999@gmail.com)
 
 📍 **Hyderabad, India** | 🤖 **AI/ML Engineer** | ⚡ **Agentic toolbuilder**
 
@@ -27,10 +27,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=santhoshkammari&show_icons=true&theme=catppuccin_mocha&hide_border=true)
 
-## Connect
-
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/santhoshkammari)
-[![Gmail](https://img.shields.io/badge/-santhoshkammari1999@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:santhoshkammari1999@gmail.com)
 
 ---
 

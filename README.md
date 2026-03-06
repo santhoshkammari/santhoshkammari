@@ -22,7 +22,6 @@
 - **Claude Code + MCP** - Agentic dev workflows, custom tool servers
 - **DSPy / LLM pipelines** - Structured prompting, multi-step reasoning chains
 - **ChromaDB** - Vector memory for agents
-- **Python CLI tools** - Fast terminal utilities for daily ops
 
 ## GitHub Activity
 

@@ -15,10 +15,6 @@
 
 - ☑️ **[npboxdetect](https://github.com/santhoshkammari/checkboxer)** - Fastest checkbox detector: NumPy + Numba, 3.9x faster than boxdetect. [`pip install npboxdetect`](https://pypi.org/project/npboxdetect/)
 - 🧠 **[agilab](https://github.com/santhoshkammari/agilab)** - Personal AI lab: agents, tools, pipelines, and experiments
-- 🛠️ **MCP Tools** - Custom MCP servers: web fetch, markdown, github explorer, gmail, YouTube, grep/read utilities
-- 🔍 **Agent Scout** - Research agent that searches, scrapes, and synthesizes answers autonomously
-- 🐼 **Panda Agent** - Scratchpad-driven stateless agent with ChromaDB memory brain
-- 📡 **AI.py** - Lightweight DSPy-style LLM interface: signatures, history injection, streaming, postprocessing
 - 💳 **[FRAUD-DETECTION-ON-BANK-PAYMENTS](https://github.com/santhoshkammari/FRAUD-DETECTION-ON-BANK-PAYMENTS)** - ML model for fraud detection in bank payments
 
 ## What I'm Building With

@@ -23,11 +23,6 @@
 - **DSPy / LLM pipelines** - Structured prompting, multi-step reasoning chains
 - **ChromaDB** - Vector memory for agents
 
-## GitHub Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=santhoshkammari&show_icons=true&theme=catppuccin_mocha&hide_border=true)
-
-
 ---
 
 > "Move fast, build things, share them."

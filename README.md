@@ -15,6 +15,7 @@
 
 - ☑️ **[npboxdetect](https://github.com/santhoshkammari/checkboxer)** - Fastest checkbox detector: NumPy + Numba, 3.9x faster than boxdetect. [`pip install npboxdetect`](https://pypi.org/project/npboxdetect/)
 - 🧠 **[agilab](https://github.com/santhoshkammari/agilab)** - Personal AI lab: agents, tools, pipelines, and experiments
+- 🖥️ **[cc-ui](https://github.com/santhoshkammari/cc-ui)** - Web UI for running Claude Code & AI agents as parallel background tasks — Kanban dashboard + live git diff panel, zero-dependency (FastAPI + plain HTML)
 - 💳 **[FRAUD-DETECTION-ON-BANK-PAYMENTS](https://github.com/santhoshkammari/FRAUD-DETECTION-ON-BANK-PAYMENTS)** - ML model for fraud detection in bank payments
 
 ## What I'm Building With

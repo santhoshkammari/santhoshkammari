@@ -13,6 +13,8 @@
 
 ## Current Projects
 
+- 🔍 **[multi-agent-deepresearch](https://github.com/santhoshkammari/multi-agent-deepresearch)** - Multi-agent deep research system using LLMs
+- 🧠 **[Llm_Finetuning](https://github.com/santhoshkammari/Llm_Finetuning)** - Finetuning POC projects
 - 💳 **[FRAUD-DETECTION-ON-BANK-PAYMENTS](https://github.com/santhoshkammari/FRAUD-DETECTION-ON-BANK-PAYMENTS)** - ML model for fraud detection in bank payments
 
 ## What I'm Building With

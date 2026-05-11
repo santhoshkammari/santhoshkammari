@@ -14,6 +14,7 @@
 ## Current Projects
 
 - 🔍 **[multi-agent-deepresearch](https://github.com/santhoshkammari/multi-agent-deepresearch)** - Multi-agent deep research system using LLMs
+- 🔦 **[spotlight-ai](https://github.com/santhoshkammari/spotlight-ai)** - macOS Spotlight-style AI bar for Linux — 200+ models via OpenCode ([PyPI](https://pypi.org/project/spotlight-ai/))
 - 🧠 **[Llm_Finetuning](https://github.com/santhoshkammari/Llm_Finetuning)** - Finetuning POC projects
 - 💳 **[FRAUD-DETECTION-ON-BANK-PAYMENTS](https://github.com/santhoshkammari/FRAUD-DETECTION-ON-BANK-PAYMENTS)** - ML model for fraud detection in bank payments
 

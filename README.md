@@ -13,6 +13,7 @@
 
 ## Current Projects
 
+- 🎙️ **[omni-voice](https://github.com/santhoshkammari/omni-voice)** - Hold a key → speak → AI agent reasons with tools → speaks back. Parakeet STT + Qwen3 agent + KittenTTS, fully local.
 - 🖥️ **[kivi](https://github.com/santhoshkammari/kivi)** - Unified AI chat interface — provider-agnostic streaming chat with tools, sessions & auto-compaction
 - 🔦 **[spotlight-ai](https://github.com/santhoshkammari/spotlight-ai)** - macOS Spotlight-style AI bar for Linux — hotkey overlay, 200+ models ([PyPI](https://pypi.org/project/spotlight-ai/))
 - 🖥️ **[gmuxkit](https://github.com/santhoshkammari/gmuxkit)** - GPU tmux session manager — start, attach, and manage remote GPU sessions from your laptop

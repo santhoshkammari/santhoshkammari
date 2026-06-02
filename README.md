@@ -16,7 +16,7 @@
 - 🎙️ **[omni-voice](https://github.com/santhoshkammari/omni-voice)** - Hold a key → speak → AI agent reasons with tools → speaks back. Parakeet STT + Qwen3 agent + KittenTTS, fully local.
 - 🖥️ **[kivi](https://github.com/santhoshkammari/kivi)** - Unified AI chat interface — provider-agnostic streaming chat with tools, sessions & auto-compaction
 - 🔦 **[spotlight-ai](https://github.com/santhoshkammari/spotlight-ai)** - macOS Spotlight-style AI bar for Linux — hotkey overlay, 200+ models ([PyPI](https://pypi.org/project/spotlight-ai/))
-- 🖥️ **[mux](https://github.com/santhoshkammari/sesh)** - tmux session manager — live preview, remote server tabs, type into sessions without attaching
+- 🖥️ **[sesh](https://github.com/santhoshkammari/sesh)** - tmux session manager — live preview, remote server tabs, type into sessions without attaching
 - 🔍 **[multi-agent-deepresearch](https://github.com/santhoshkammari/multi-agent-deepresearch)** - Multi-agent deep research system using LLMs
 - 📚 **[zero-to-hero-ai](https://github.com/santhoshkammari/zero-to-hero-ai)** - Zero to Hero AI — 18 chapters, 224 sections, 6972 concepts as an interactive website
 

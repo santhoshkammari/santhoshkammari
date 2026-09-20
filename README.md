@@ -11,20 +11,65 @@
 
 > Building agentic tools and AI pipelines at full speed. Deep in the Claude Code + MCP ecosystem — turning rough ideas into working systems, fast.
 
+## Start Here
+
+- 🎛️ **[opencode-claude](https://github.com/santhoshkammari/opencode-claude)** - Claude Code in OpenCode — Agent SDK, local CLI auth, no API key
+- 🔦 **[spotlight-ai](https://github.com/santhoshkammari/spotlight-ai)** 🔒 - Ctrl+Space AI search bar for Linux, powered by OpenCode ([PyPI](https://pypi.org/project/spotlight-ai/))
+- 📄 **[arxiv-ai](https://github.com/santhoshkammari/arxiv-ai)** - Fetch arXiv papers, agentically analyze each PDF, email a report
+- 🔍 **[inresearch](https://github.com/santhoshkammari/inresearch)** - Local-first research database + semantic-search CLI
+- 📚 **[zero-to-hero-ai](https://github.com/santhoshkammari/zero-to-hero-ai)** 🔒 - AI/ML curriculum, fundamentals → production systems
+
 ## Current Projects
 
-- 🎙️ **[omni-voice](https://github.com/santhoshkammari/omni-voice)** - Hold a key → speak → AI agent reasons with tools → speaks back. Parakeet STT + Qwen3 agent + KittenTTS, fully local.
-- 🖥️ **[kivi](https://github.com/santhoshkammari/kivi)** - Unified AI chat interface — provider-agnostic streaming chat with tools, sessions & auto-compaction
-- 🔦 **[spotlight-ai](https://github.com/santhoshkammari/spotlight-ai)** - macOS Spotlight-style AI bar for Linux — hotkey overlay, 200+ models ([PyPI](https://pypi.org/project/spotlight-ai/))
-- 🖥️ **[sesh](https://github.com/santhoshkammari/sesh)** - tmux session manager — live preview, remote server tabs, type into sessions without attaching
-- 🔍 **[multi-agent-deepresearch](https://github.com/santhoshkammari/multi-agent-deepresearch)** - Multi-agent deep research system using LLMs
-- 📚 **[zero-to-hero-ai](https://github.com/santhoshkammari/zero-to-hero-ai)** - Zero to Hero AI — 18 chapters, 224 sections, 6972 concepts as an interactive website
+### Agent Tooling & Dev Infra
+
+- 🎛️ **[opencode-claude](https://github.com/santhoshkammari/opencode-claude)** - Claude Code in OpenCode/OpenChamber via the official Agent SDK; effort variants, tools, auto-compact
+- 🎙️ **[jarvis-private](https://github.com/santhoshkammari/jarvis-private)** 🔒 - Local voice assistant: wake word, offline STT, agent runtime, TTS, GTK overlay
+- 🤖 **[maf](https://github.com/santhoshkammari/maf)** 🔒 - Standalone multi-agent workflow examples for the OpenAI Agents SDK
+- 🧰 **[lab](https://github.com/santhoshkammari/lab)** 🔒 - Personal engineering control center: tools, skills, prompts, experiments, repo catalog
+
+### AI / ML
+
+- 🧪 **[implementations](https://github.com/santhoshkammari/implementations)** - From-scratch model implementations and paper reproductions (DeepLoop, MiniCPM-2B)
+- 📄 **[arxiv-ai](https://github.com/santhoshkammari/arxiv-ai)** - Fetch arXiv papers, run an agentic analysis on each PDF, email the report
+- 🧬 **[tinydsv4](https://github.com/santhoshkammari/tinydsv4)** 🔒 - Tiny from-scratch DeepSeek-V4-style LLM — model + training on FineWeb-Edu
+- 🔍 **[inresearch](https://github.com/santhoshkammari/inresearch)** - Local-first CLI storing research ideas and visited pages in SQLite with semantic + keyword search
+- ⚖️ **[nli-judge-infer](https://github.com/santhoshkammari/nli-judge-infer)** - Minimal inference for a multilingual DeBERTa NLI model: CLI, Transformers, FastAPI
+- 🧠 **[llm-finetuning](https://github.com/santhoshkammari/llm-finetuning)** - Fine-tuning POCs, incl. AI document extraction
+- 💳 **[fraud-detection-bank-payments](https://github.com/santhoshkammari/fraud-detection-bank-payments)** (4★) - ML model for fraud detection in bank payments
+- 🫁 **[COVID-19-CLASSIFICATION-FROM-CHEST-X-RAY-IMAGES](https://github.com/santhoshkammari/COVID-19-CLASSIFICATION-FROM-CHEST-X-RAY-IMAGES)** - VGG-16-based CNN for COVID-19 classification from chest X-rays
+- 🎭 **[DEEP-FAKE-VIDEO-DETECTION-USING-DEEP-LEARNING](https://github.com/santhoshkammari/DEEP-FAKE-VIDEO-DETECTION-USING-DEEP-LEARNING)** - Frame extraction + MesoNet pipeline to classify deepfake video
+
+### Curriculum & Personal Systems
+
+- 📚 **[zero-to-hero-ai](https://github.com/santhoshkammari/zero-to-hero-ai)** 🔒 - Markdown-first AI/ML curriculum and research library, fundamentals → production
+- 📖 **[oxford-vocab](https://github.com/santhoshkammari/oxford-vocab)** 🔒 - Oxford 5000 vocabulary data + workbook build tooling
+- 🗂️ **[personal-systems-private](https://github.com/santhoshkammari/personal-systems-private)** 🔒 - Daily/task trackers and vocabulary tools
+- 💼 **[career-private](https://github.com/santhoshkammari/career-private)** 🔒 - Resume, interview prep, and career planning workspace
+- 📊 **[finance](https://github.com/santhoshkammari/finance)** 🔒 - Personal finance analysis — scripts, charts, HTML report
+
+### Web & Profile
+
+- 🌐 **[santhoshkammari.github.io](https://github.com/santhoshkammari/santhoshkammari.github.io)** - Personal portfolio — GenAI Engineer
+- 📈 **[profile-assets](https://github.com/santhoshkammari/profile-assets)** - Auto-updated GitHub contribution graph for LinkedIn
+
+### Legacy
+
+- 🔌 **[claude-native-provider](https://github.com/santhoshkammari/claude-native-provider)** - Archived: local OpenAI-compatible shim over the Claude Agent SDK. Superseded by [opencode-claude](https://github.com/santhoshkammari/opencode-claude).
+
+> 🔒 = private repository
 
 ## What I'm Building With
 
 - **Claude Code + MCP** — Agentic dev workflows, custom tool servers
 - **DSPy / LLM pipelines** — Structured prompting, multi-step reasoning chains
 - **GPU infra** — Running vLLM on NVIDIA RTX PRO 6000 Blackwell (96GB VRAM)
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/santhoshkammari)
+[![Portfolio](https://img.shields.io/badge/-santhoshkammari.github.io-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://santhoshkammari.github.io/)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:santhoshkammari1999@gmail.com)
 
 ---
 

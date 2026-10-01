@@ -40,14 +40,6 @@
 - 🫁 **[COVID-19-CLASSIFICATION-FROM-CHEST-X-RAY-IMAGES](https://github.com/santhoshkammari/COVID-19-CLASSIFICATION-FROM-CHEST-X-RAY-IMAGES)** - VGG-16-based CNN for COVID-19 classification from chest X-rays
 - 🎭 **[DEEP-FAKE-VIDEO-DETECTION-USING-DEEP-LEARNING](https://github.com/santhoshkammari/DEEP-FAKE-VIDEO-DETECTION-USING-DEEP-LEARNING)** - Frame extraction + MesoNet pipeline to classify deepfake video
 
-### Curriculum & Personal Systems
-
-- 📚 **[zero-to-hero-ai](https://github.com/santhoshkammari/zero-to-hero-ai)** 🔒 - Markdown-first AI/ML curriculum and research library, fundamentals → production
-- 📖 **[oxford-vocab](https://github.com/santhoshkammari/oxford-vocab)** 🔒 - Oxford 5000 vocabulary data + workbook build tooling
-- 🗂️ **[personal-systems-private](https://github.com/santhoshkammari/personal-systems-private)** 🔒 - Daily/task trackers and vocabulary tools
-- 💼 **[career-private](https://github.com/santhoshkammari/career-private)** 🔒 - Resume, interview prep, and career planning workspace
-- 📊 **[finance](https://github.com/santhoshkammari/finance)** 🔒 - Personal finance analysis — scripts, charts, HTML report
-
 ### Web & Profile
 
 - 🌐 **[santhoshkammari.github.io](https://github.com/santhoshkammari/santhoshkammari.github.io)** - Personal portfolio — GenAI Engineer

@@ -13,7 +13,6 @@
 
 ## Projects
 
-- 🎛️ [opencode-claude](https://github.com/santhoshkammari/opencode-claude) — Claude Code agent runtime inside OpenCode
 - 🎙️ [pushtalk](https://github.com/santhoshkammari/pushtalk) — Push-to-talk voice control for AI agents
 - 🧩 [openchamber-ai](https://github.com/santhoshkammari/openchamber-ai) — Open-source agentic AI coding framework
 - 🔌 [claude-native-provider](https://github.com/santhoshkammari/claude-native-provider) — Archived Claude Agent SDK shim, OpenAI-compatible

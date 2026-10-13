@@ -14,7 +14,6 @@
 ## Projects
 
 - 🎙️ [pushtalk](https://github.com/santhoshkammari/pushtalk) — Push-to-talk voice control for AI agents
-- 🧩 [openchamber-ai](https://github.com/santhoshkammari/openchamber-ai) — Open-source agentic AI coding framework
 - 🔌 [claude-native-provider](https://github.com/santhoshkammari/claude-native-provider) — Archived Claude Agent SDK shim, OpenAI-compatible
 - 🧪 [implementations](https://github.com/santhoshkammari/implementations) — From-scratch ML models and paper reproductions
 - 🧠 [llm-finetuning](https://github.com/santhoshkammari/llm-finetuning) — Fine-tuning POCs including AI doc extraction

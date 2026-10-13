@@ -14,7 +14,7 @@
 ## Projects
 
 - 🎙️ [pushtalk](https://github.com/santhoshkammari/pushtalk) — Push-to-talk voice control for AI agents
-- 🧪 [implementations](https://github.com/santhoshkammari/lab/tree/main/implementations) — From-scratch ML models and paper reproductions
+- 🧪 [implementations](https://github.com/santhoshkammari/implementations) — From-scratch ML models and paper reproductions
 - 🧠 [llm-finetuning](https://github.com/santhoshkammari/llm-finetuning) — Fine-tuning POCs including AI doc extraction
 - 💳 [fraud-detection-bank-payments](https://github.com/santhoshkammari/fraud-detection-bank-payments) — ML model detecting bank payment fraud
 - 🫁 [COVID-19-CLASSIFICATION-FROM-CHEST-X-RAY-IMAGES](https://github.com/santhoshkammari/COVID-19-CLASSIFICATION-FROM-CHEST-X-RAY-IMAGES) — VGG-16 CNN classifying COVID-19 chest X-rays

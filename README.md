@@ -16,7 +16,6 @@
 - 🎛️ [opencode-claude](https://github.com/santhoshkammari/opencode-claude) — Claude Code agent runtime inside OpenCode
 - 📄 [arxiv-ai](https://github.com/santhoshkammari/arxiv-ai) — Analyze arXiv PDFs, email a report
 - 🧪 [implementations](https://github.com/santhoshkammari/implementations) — From-scratch ML models and paper reproductions
-- ⚖️ [nli-judge-infer](https://github.com/santhoshkammari/nli-judge-infer) — Minimal multilingual DeBERTa NLI inference CLI
 - 🧠 [llm-finetuning](https://github.com/santhoshkammari/llm-finetuning) — Fine-tuning POCs including AI doc extraction
 - 💳 [fraud-detection-bank-payments](https://github.com/santhoshkammari/fraud-detection-bank-payments) — ML model detecting bank payment fraud
 - 🫁 [COVID-19-CLASSIFICATION-FROM-CHEST-X-RAY-IMAGES](https://github.com/santhoshkammari/COVID-19-CLASSIFICATION-FROM-CHEST-X-RAY-IMAGES) — VGG-16 CNN classifying COVID-19 chest X-rays

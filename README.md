@@ -14,7 +14,6 @@
 ## Projects
 
 - 🎛️ [opencode-claude](https://github.com/santhoshkammari/opencode-claude) — Claude Code agent runtime inside OpenCode
-- 📄 [arxiv-ai](https://github.com/santhoshkammari/arxiv-ai) — Analyze arXiv PDFs, email a report
 - 🧪 [implementations](https://github.com/santhoshkammari/implementations) — From-scratch ML models and paper reproductions
 - 🧠 [llm-finetuning](https://github.com/santhoshkammari/llm-finetuning) — Fine-tuning POCs including AI doc extraction
 - 💳 [fraud-detection-bank-payments](https://github.com/santhoshkammari/fraud-detection-bank-payments) — ML model detecting bank payment fraud

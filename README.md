@@ -22,7 +22,6 @@
 - 🎙️ [pushtalk](https://github.com/santhoshkammari/pushtalk) — Push-to-talk voice control for AI agents
 - 🧩 [openchamber-ai](https://github.com/santhoshkammari/openchamber-ai) — Open-source agentic AI coding framework
 - 🌐 [santhoshkammari.github.io](https://github.com/santhoshkammari/santhoshkammari.github.io) — GenAI engineer personal portfolio website
-- 📈 [profile-assets](https://github.com/santhoshkammari/profile-assets) — Auto-updated GitHub contribution graph for LinkedIn
 - 🔌 [claude-native-provider](https://github.com/santhoshkammari/claude-native-provider) — Archived Claude Agent SDK shim, OpenAI-compatible
 
 ## What I'm Building With

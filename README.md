@@ -14,15 +14,14 @@
 ## Projects
 
 - 🎛️ [opencode-claude](https://github.com/santhoshkammari/opencode-claude) — Claude Code agent runtime inside OpenCode
+- 🎙️ [pushtalk](https://github.com/santhoshkammari/pushtalk) — Push-to-talk voice control for AI agents
+- 🧩 [openchamber-ai](https://github.com/santhoshkammari/openchamber-ai) — Open-source agentic AI coding framework
+- 🔌 [claude-native-provider](https://github.com/santhoshkammari/claude-native-provider) — Archived Claude Agent SDK shim, OpenAI-compatible
 - 🧪 [implementations](https://github.com/santhoshkammari/implementations) — From-scratch ML models and paper reproductions
 - 🧠 [llm-finetuning](https://github.com/santhoshkammari/llm-finetuning) — Fine-tuning POCs including AI doc extraction
 - 💳 [fraud-detection-bank-payments](https://github.com/santhoshkammari/fraud-detection-bank-payments) — ML model detecting bank payment fraud
 - 🫁 [COVID-19-CLASSIFICATION-FROM-CHEST-X-RAY-IMAGES](https://github.com/santhoshkammari/COVID-19-CLASSIFICATION-FROM-CHEST-X-RAY-IMAGES) — VGG-16 CNN classifying COVID-19 chest X-rays
 - 🎭 [DEEP-FAKE-VIDEO-DETECTION-USING-DEEP-LEARNING](https://github.com/santhoshkammari/DEEP-FAKE-VIDEO-DETECTION-USING-DEEP-LEARNING) — MesoNet pipeline for deepfake video classification
-- 🎙️ [pushtalk](https://github.com/santhoshkammari/pushtalk) — Push-to-talk voice control for AI agents
-- 🧩 [openchamber-ai](https://github.com/santhoshkammari/openchamber-ai) — Open-source agentic AI coding framework
-- 🌐 [santhoshkammari.github.io](https://github.com/santhoshkammari/santhoshkammari.github.io) — GenAI engineer personal portfolio website
-- 🔌 [claude-native-provider](https://github.com/santhoshkammari/claude-native-provider) — Archived Claude Agent SDK shim, OpenAI-compatible
 
 ## What I'm Building With
 

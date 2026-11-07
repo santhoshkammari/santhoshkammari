@@ -8,7 +8,6 @@
     <meta property="og:title" content="Santhosh Kammari — GenAI Engineer">
     <meta property="og:description" content="Building production AI systems for document intelligence, hybrid retrieval, and multi-agent pipelines.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://santhoshkammari.github.io">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -27,7 +26,6 @@
                 <a href="#experience">Experience</a>
                 <a href="#projects">Work</a>
                 <a href="#skills">Skills</a>
-                <a href="#opensource">Open Source</a>
                 <a href="#contact">Contact</a>
             </div>
             <div class="nav-actions">
@@ -97,14 +95,6 @@
                         </div>
                         <span class="highlight-label">Trade Finance Engine</span>
                         <span class="highlight-context">UCP 600 compliance · deployed at banking clients</span>
-                    </div>
-                    <div class="highlight-card">
-                        <div class="highlight-top">
-                            <span class="highlight-number">85%</span>
-                            <span class="highlight-unit">accuracy</span>
-                        </div>
-                        <span class="highlight-label">BrowseComp Benchmark</span>
-                        <span class="highlight-context">Multi-agent system · 1000+ web pages</span>
                     </div>
                 </div>
 
@@ -197,84 +187,28 @@
         <!-- Projects -->
         <section id="projects" class="section">
             <div class="container">
-                <h2 class="section-title"><span class="section-number">03.</span> Featured Work</h2>
-                <div class="projects-grid fade-in">
-
-                    <div class="project-card">
-                        <div class="project-header">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 20a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8l-7 5V8l-7 5V4a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z"/></svg>
-                            <span class="project-badge production">Production</span>
-                        </div>
-                        <h3>RBI Decision Support System</h3>
-                        <p>Sole architect of RBI's AI-powered regulatory analysis system. 8-stage GPU pipeline, hybrid RAG+Text2SQL engine, stateful chat memory, 5 FastAPI microservices — delivered end-to-end in 3 weeks.</p>
-                        <div class="project-tags">
-                            <span>Python</span><span>FastAPI</span><span>Milvus</span><span>vLLM</span><span>Qwen3</span>
-                        </div>
-                    </div>
-
-                    <div class="project-card">
-                        <div class="project-header">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"/><path d="M14 2v6h6"/><path d="m16 13-3.5 3.5-2-2L8 17"/></svg>
-                            <span class="project-badge production">Production</span>
-                        </div>
-                        <h3>Trade Finance Rule Engine</h3>
-                        <p>Primary author. 40+ UCP 600 compliance rules with BERT signature verification, spatial coordinate extraction, and cross-document numeric reconciliation. Deployed at banking clients.</p>
-                        <div class="project-tags">
-                            <span>Python</span><span>FastAPI</span><span>MongoDB</span><span>BERT</span><span>Tesseract</span>
-                        </div>
-                    </div>
-
-                    <div class="project-card">
-                        <div class="project-header">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="18" r="3"/><circle cx="6" cy="6" r="3"/><path d="M13 6h3a2 2 0 0 1 2 2v7"/><path d="M11 18H8a2 2 0 0 1-2-2V9"/></svg>
-                            <span class="project-badge research">Research</span>
-                        </div>
-                        <h3>Multi-Agent Deep Research</h3>
-                        <p>Multi-agent system operating over 1,000+ web pages with parallel sub-agents and context management. Achieved 85% accuracy on the BrowseComp benchmark.</p>
-                        <div class="project-tags">
-                            <span>Python</span><span>LangGraph</span><span>Multi-Agent</span>
-                        </div>
-                        <a href="https://github.com/santhoshkammari/multi-agent-deepresearch" target="_blank" rel="noopener" class="project-link">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>
-                        </a>
-                    </div>
-
-                    <div class="project-card">
-                        <div class="project-header">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 5V19A9 3 0 0 0 21 19V5"/><path d="M3 12A9 3 0 0 0 21 12"/></svg>
-                            <span class="project-badge production">Production</span>
-                        </div>
-                        <h3>3-Tier Retrieval & Reranking Engine</h3>
-                        <p>Authority-ranked retrieval over 5 Milvus collections. Alpha/Beta/Gamma tier search with Qwen3-Reranker cross-encoder scoring, query decomposition, and parallel sub-query execution.</p>
-                        <div class="project-tags">
-                            <span>FastAPI</span><span>Milvus</span><span>vLLM</span><span>Reranking</span>
-                        </div>
-                    </div>
-
-                    <div class="project-card">
-                        <div class="project-header">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/></svg>
-                            <span class="project-badge production">Production</span>
-                        </div>
-                        <h3>DocVeda — Document Intelligence</h3>
-                        <p>Modular enterprise RAG platform: OmniDocs fetch → DOTS OCR → doclayout-YOLO parsing → semantic chunking → Milvus insert → LLM metadata filter → reranking → synthesis. CUDA 12.6 + ONNX backend.</p>
-                        <div class="project-tags">
-                            <span>FastAPI</span><span>Milvus</span><span>YOLO</span><span>Qwen3</span><span>ONNX</span>
-                        </div>
-                    </div>
-
-                    <div class="project-card">
-                        <div class="project-header">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"/></svg>
-                            <span class="project-badge research">Research</span>
-                        </div>
-                        <h3>Embedding Fine-Tuning & Benchmarks</h3>
-                        <p>Fine-tuned domain embeddings with synthetic QA data — +4.2% Precision@1 over base GTE-large. Benchmarked 8 models across 20 metrics; findings drove production architecture decisions.</p>
-                        <div class="project-tags">
-                            <span>SentenceTransformers</span><span>Milvus</span><span>HuggingFace</span>
-                        </div>
-                    </div>
-
+                <h2 class="section-title"><span class="section-number">03.</span> Public Projects</h2>
+                <div class="opensource-grid fade-in">
+                    <a href="https://github.com/santhoshkammari/llm-finetuning" target="_blank" rel="noopener" class="repo-card">
+                        <h3>LLM Fine-tuning</h3>
+                        <p>Fine-tuning proof-of-concept projects.</p>
+                        <span class="repo-lang">View on GitHub →</span>
+                    </a>
+                    <a href="https://github.com/santhoshkammari/fraud-detection-bank-payments" target="_blank" rel="noopener" class="repo-card">
+                        <h3>Bank Payment Fraud Detection</h3>
+                        <p>Machine learning classification for detecting fraudulent bank payments.</p>
+                        <span class="repo-lang">View on GitHub →</span>
+                    </a>
+                    <a href="https://github.com/santhoshkammari/COVID-19-CLASSIFICATION-FROM-CHEST-X-RAY-IMAGES" target="_blank" rel="noopener" class="repo-card">
+                        <h3>COVID-19 Chest X-ray Classification</h3>
+                        <p>A VGG-16-based CNN for classifying chest X-ray images.</p>
+                        <span class="repo-lang">View on GitHub →</span>
+                    </a>
+                    <a href="https://github.com/santhoshkammari/DEEP-FAKE-VIDEO-DETECTION-USING-DEEP-LEARNING" target="_blank" rel="noopener" class="repo-card">
+                        <h3>Deepfake Video Detection</h3>
+                        <p>A deep learning approach to detecting manipulated videos.</p>
+                        <span class="repo-lang">View on GitHub →</span>
+                    </a>
                 </div>
             </div>
         </section>
@@ -324,55 +258,10 @@
             </div>
         </section>
 
-        <!-- Open Source -->
-        <section id="opensource" class="section">
-            <div class="container">
-                <h2 class="section-title"><span class="section-number">05.</span> Open Source</h2>
-                <div class="opensource-grid fade-in">
-                    <a href="https://github.com/santhoshkammari/zero-to-hero-ai" target="_blank" rel="noopener" class="repo-card">
-                        <div class="repo-header">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/></svg>
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>
-                        </div>
-                        <h3>zero-to-hero-ai</h3>
-                        <p>Comprehensive AI/ML knowledge book as an interactive website. 18 chapters, 224 sections, 6,972 concepts.</p>
-                        <span class="repo-lang"><span class="lang-dot html"></span>HTML</span>
-                    </a>
-                    <a href="https://github.com/santhoshkammari/multi-agent-deepresearch" target="_blank" rel="noopener" class="repo-card">
-                        <div class="repo-header">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="18" r="3"/><circle cx="6" cy="6" r="3"/><path d="M13 6h3a2 2 0 0 1 2 2v7"/><path d="M11 18H8a2 2 0 0 1-2-2V9"/></svg>
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>
-                        </div>
-                        <h3>multi-agent-deepresearch</h3>
-                        <p>Multi-agent deep research system using LLMs. 85% accuracy on BrowseComp benchmark.</p>
-                        <span class="repo-lang"><span class="lang-dot python"></span>Python</span>
-                    </a>
-                    <a href="https://github.com/santhoshkammari/openai-agent-terminal" target="_blank" rel="noopener" class="repo-card">
-                        <div class="repo-header">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="4 17 10 11 4 5"/><line x1="12" x2="20" y1="19" y2="19"/></svg>
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>
-                        </div>
-                        <h3>openai-agent-terminal</h3>
-                        <p>Streaming AI coding REPL with multi-agent orchestration — local vLLM, Claude, OpenCode, Copilot in a unified session.</p>
-                        <span class="repo-lang"><span class="lang-dot python"></span>Python</span>
-                    </a>
-                    <a href="https://github.com/santhoshkammari/demystifying-ai" target="_blank" rel="noopener" class="repo-card">
-                        <div class="repo-header">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"/></svg>
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>
-                        </div>
-                        <h3>demystifying-ai</h3>
-                        <p>Making AI concepts accessible — educational content and interactive explanations.</p>
-                        <span class="repo-lang"><span class="lang-dot html"></span>HTML</span>
-                    </a>
-                </div>
-            </div>
-        </section>
-
         <!-- Publications -->
         <section id="publications" class="section">
             <div class="container">
-                <h2 class="section-title"><span class="section-number">06.</span> Publication</h2>
+                <h2 class="section-title"><span class="section-number">05.</span> Publication</h2>
                 <div class="publication-card fade-in">
                     <div class="pub-icon">
                         <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
@@ -390,7 +279,7 @@
         <!-- Education -->
         <section id="education" class="section">
             <div class="container">
-                <h2 class="section-title"><span class="section-number">07.</span> Education</h2>
+                <h2 class="section-title"><span class="section-number">06.</span> Education</h2>
                 <div class="education-card fade-in">
                     <div class="edu-icon">
                         <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 6 3 6 3s3 0 6-3v-5"/></svg>

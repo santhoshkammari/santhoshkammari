@@ -11,11 +11,9 @@
 
 > Building agentic tools and AI pipelines at full speed. Deep in the Claude Code + MCP ecosystem — turning rough ideas into working systems, fast.
 
-## Projects
+## Public Projects
 
-- 🎙️ [pushtalk](https://github.com/santhoshkammari/pushtalk) — Push-to-talk voice control for AI agents
-- 🧪 [implementations](https://github.com/santhoshkammari/implementations) — From-scratch ML models and paper reproductions
-- 🧠 [llm-finetuning](https://github.com/santhoshkammari/llm-finetuning) — Fine-tuning POCs including AI doc extraction
+- 🧠 [llm-finetuning](https://github.com/santhoshkammari/llm-finetuning) — Fine-tuning proof-of-concept projects
 - 💳 [fraud-detection-bank-payments](https://github.com/santhoshkammari/fraud-detection-bank-payments) — ML model detecting bank payment fraud
 - 🫁 [COVID-19-CLASSIFICATION-FROM-CHEST-X-RAY-IMAGES](https://github.com/santhoshkammari/COVID-19-CLASSIFICATION-FROM-CHEST-X-RAY-IMAGES) — VGG-16 CNN classifying COVID-19 chest X-rays
 - 🎭 [DEEP-FAKE-VIDEO-DETECTION-USING-DEEP-LEARNING](https://github.com/santhoshkammari/DEEP-FAKE-VIDEO-DETECTION-USING-DEEP-LEARNING) — MesoNet pipeline for deepfake video classification
@@ -29,7 +27,6 @@
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/santhoshkammari)
-[![Portfolio](https://img.shields.io/badge/-santhoshkammari.github.io-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://santhoshkammari.github.io/)
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:santhoshkammari1999@gmail.com)
 
 ---

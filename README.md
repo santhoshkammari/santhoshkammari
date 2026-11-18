@@ -11,12 +11,10 @@
 
 > Building agentic tools and AI pipelines at full speed. Deep in the Claude Code + MCP ecosystem — turning rough ideas into working systems, fast.
 
-## Public Projects
+## Tools
 
-- 🧠 [llm-finetuning](https://github.com/santhoshkammari/llm-finetuning) — Fine-tuning proof-of-concept projects
-- 💳 [fraud-detection-bank-payments](https://github.com/santhoshkammari/fraud-detection-bank-payments) — ML model detecting bank payment fraud
-- 🫁 [COVID-19-CLASSIFICATION-FROM-CHEST-X-RAY-IMAGES](https://github.com/santhoshkammari/COVID-19-CLASSIFICATION-FROM-CHEST-X-RAY-IMAGES) — VGG-16 CNN classifying COVID-19 chest X-rays
-- 🎭 [DEEP-FAKE-VIDEO-DETECTION-USING-DEEP-LEARNING](https://github.com/santhoshkammari/DEEP-FAKE-VIDEO-DETECTION-USING-DEEP-LEARNING) — MesoNet pipeline for deepfake video classification
+- 🔊 [phonon-dictation](https://github.com/santhoshkammari/phonon-dictation) — Hold F9, speak, release. Local push-to-talk dictation for Linux/X11, powered by Phonon-2 on CPU. No cloud, no API keys.
+- 📈 [profile-assets](https://github.com/santhoshkammari/profile-assets) — Auto-updated GitHub contribution graph for LinkedIn
 
 ## What I'm Building With
 

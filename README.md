@@ -13,6 +13,7 @@
 
 ## Tools
 
+- 🧩 [opencode-claude-plugin](https://github.com/santhoshkammari/opencode-claude-plugin) — Use Claude Code inside OpenCode with Claude's built-in tools instead of MCP. Native OpenCode UI, ~2.5k tokens for a "hi" vs 14k with defaults.
 - 🔊 [phonon-dictation](https://github.com/santhoshkammari/phonon-dictation) — Hold F9, speak, release. Local push-to-talk dictation for Linux/X11, powered by Phonon-2 on CPU. No cloud, no API keys.
 - 📈 [profile-assets](https://github.com/santhoshkammari/profile-assets) — Auto-updated GitHub contribution graph for LinkedIn
 
